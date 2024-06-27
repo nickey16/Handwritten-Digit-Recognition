@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition
-Handwritten Digit Recognition SVM Classifier
+Handwritten Digit Recognition Using SVM Classifier
